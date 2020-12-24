@@ -1,0 +1,69 @@
+h3{
+	color:darkblue;
+	font-family:Arial;
+	font-weight:bold;
+}
+
+.padabt{
+	padding:10 px;
+	background-color:#F4F769;
+	color:blue;
+	font-family:Arial;
+	font-weight:bold;
+	text-indent:justify;
+	
+}
+.padabtr{
+	padding:10 px;
+	background-color:#F4F769;
+	color:red;
+	font-family:Arial;
+	font-weight:bold;
+	text-indent:justify;
+	
+}
+	
+.newspad1{
+	padding :10px;
+	background-color:powderblue;
+	margin-left:20px;
+}
+.newspad2{
+	padding :10px;
+	background-color:yellow;
+	margin-left:20px;
+}
+.newspad3{
+	padding :10px;
+	background-color:lime;
+	margin-left:20px;
+}
+.newslist{
+	list-style-type: decimal;
+}
+h4{
+	color:red;
+	font-weight:bold;
+	text-align:center;
+}
+.workpad{
+	background-color:#049914;
+	padding:10px;
+}
+.workpadT{
+	background-color:#F7F488;
+	padding:10px;
+}
+.marq{
+    font-family:Arial; 
+	font-size:18px; 
+    font-weight:bold; 
+    color:#0F5CF7; 
+	padding-top:110px; 
+    padding-bottom:110px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+	
+	
